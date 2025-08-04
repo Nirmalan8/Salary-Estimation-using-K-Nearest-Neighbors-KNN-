@@ -21,14 +21,14 @@ The dataset used is a CSV file named `salary.csv`, which contains:
 
 ---
 
-## 🧠 Machine Learning Algorithm
+##  Machine Learning Algorithm
 
 **K-Nearest Neighbors (KNN)**  
 KNN is a simple, distance-based classification algorithm. It classifies new instances by checking the majority class of its K nearest neighbors in the training set.
 
 ---
 
-## 🧪 Steps Performed
+##  Steps Performed
 
 1. Import necessary Python libraries
 2. Load and explore the dataset
