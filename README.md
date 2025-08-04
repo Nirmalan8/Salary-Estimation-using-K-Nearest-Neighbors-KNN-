@@ -67,5 +67,4 @@ We tested different values of **K from 1 to 49**, calculated the error rate for 
 
 ---
 
-## 📂 Project Structure
 
